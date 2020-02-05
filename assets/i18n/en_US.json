@@ -1,0 +1,9 @@
+{
+  "search_bar": {
+    "text": "Enter business name"
+  },
+  "select_bar": {
+    "nearby": "Nearby",
+    "smart_sort": "Smart sort"
+  }
+}

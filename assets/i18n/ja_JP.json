@@ -1,0 +1,9 @@
+{
+  "search_bar": {
+    "text": "会社名を入力してください"
+  },
+  "select_bar": {
+    "nearby": "近く",
+    "smart_sort": "スマートソート"
+  }
+}

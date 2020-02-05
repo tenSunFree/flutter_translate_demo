@@ -1,0 +1,9 @@
+{
+  "search_bar": {
+    "text": "输入商家名"
+  },
+  "select_bar": {
+    "nearby": "附近",
+    "smart_sort": "智能排序"
+  }
+}

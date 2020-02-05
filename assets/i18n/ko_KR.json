@@ -1,0 +1,9 @@
+{
+  "search_bar": {
+    "text": "업체명 입력"
+  },
+  "select_bar": {
+    "nearby": "주변",
+    "smart_sort": "스마트 정렬"
+  }
+}
